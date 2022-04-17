@@ -1,5 +1,6 @@
 # Gaussian Elimination in Python
 Source code for implementation of Gaussian Elimination in Linear Algebra assignment at HCMUT.
+
 **The question.** Write a program in Python to solve the system of equations using Gaussian elimination. Conclude the number of solution, the exact solution in case of unique solution, the number of free variable in case of infinitely many solutions.
 
 ## Installation
